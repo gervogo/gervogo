@@ -1,3 +1,20 @@
+### ¡Hola! 👋
+Soy Gerson Gálvez, desarrollador multiplataforma y diseñador gráfico.
+
+Soy un apasionado del diseño, lo que me lleva a atender meticulosamente a cada detalle en cada uno de los proyectos que llevo a cabo.
+Estoy publicando poco a poco parte de mi trabajo en Github donde próximamente habrá más contenido interesante  😉
+
+## Sobre mí
+- 🎓 Estoy terminando mis estudios superiores en Desarrollo de Aplicaciones Multiplataforma (DAM). Actualmente, estoy buscando activamente una empresa para realizar la formación en centros de trabajo (FCT) mientras trabajo en el proyecto final del CFGS.
+-⚡ Tengo experiencia trabajando con varias tecnologías tales como Java (Android, Swing, JavaFX, JDBC, DB4O, Hibernate, etc.), Python, C# (desarrollo de videojuegos 2D con Unity), así como bases de dato MySQL y OracleSQL(PL/SQL ).
+- 🎨 Durante más de una década de experiencia como diseñador gráfico, perfeccioné algunas de mis habilidades en el diseño de interfaces de usuario con herramientas como Figma o Adobe XD. Esta experiencia previa también me ha servido para dominar herramientas como Adobe Illustrator, Adobe InDesign, Adobe Photoshop, Adobe Premiere, Final Cut Pro X o en el campo del 3D herramientas como Cinema 4D o Sketchup Pro con motores de render como Octane Render o Vray, lo que me permite abordar proyectos multidisciplinares.
+- 📓 En mi trabajo diario empleo metodologías como GTD (Getting Things Done) o Kanban, utilizando herramientas tales como Trello, Jira, Things 3, Notion, Obsidian, etc.
+- 🌱 Recientemente, me he embarcado en aprender Dart y Flutter para desarrollar aplicaciones iOS y Android de última generación.
+
+_¡Siéntete libre de explorar mis repositorios de GitHub y permanece atento a más proyectos que vendrán en un futuro próximo!_ 😉
+
+---
+
 ### Hi there 👋
 I'm Gerson Gálvez, a multiplatform application developer and graphic designer.
 
