@@ -31,7 +31,7 @@ I'm gradually sharing some of my work on GitHub, with more exciting content to c
 _Feel free to explore my GitHub repositories and stay tuned for more exciting projects in the near future!_ 😉
 
 ---
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gervogo&theme=dracula&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gervogo&theme=dracula&hide=html)](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gervogo&theme=dracula&hide=html)
 
 
 <!--
